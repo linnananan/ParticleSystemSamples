@@ -1,0 +1,70 @@
+﻿<Properties StartupConfiguration="{215E634C-C9A8-7435-6280-17D36F10A036}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/shader-graph-nodes/Nodes/Complex/ComplexNodes.cs">
+    <Files>
+      <File FileName="Assets/MagneticParticles/Scripts/ParticleMagnets.cs" Line="56" Column="1" />
+      <File FileName="Assets/ShaderEffect/ShieldShader/ShieldAttackSimulator.cs" Line="16" Column="17" />
+      <File FileName="Assets/ShaderEffect/PixelateImageEffect/PixelateImageEffect.cs" Line="16" Column="1" />
+      <File FileName="Assets/shader-graph-nodes/Nodes/Complex/ComplexNodes.cs" Line="25" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lalaParticleSystem" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FXLab" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Editor" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="JMO Assets" expanded="True">
+                <Node name="Cartoon FX Easy Editor" expanded="True">
+                  <Node name="Editor" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="MagneticParticles" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Particle Playground" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="PathCreator" expanded="True">
+                <Node name="Examples" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="ShaderEffect" expanded="True">
+                <Node name="PixelateImageEffect" expanded="True" />
+                <Node name="ShieldShader" expanded="True" />
+              </Node>
+              <Node name="shader-graph-nodes" expanded="True">
+                <Node name="Nodes" expanded="True">
+                  <Node name="Complex" expanded="True">
+                    <Node name="ComplexNodes.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="UI" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="UI_Test" expanded="True">
+                <Node name="ImageEffects" expanded="True">
+                  <Node name="Shaders" expanded="True">
+                    <Node name="_BloomAndFlares" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="UI2" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="98a2b400-1928-499b-83b4-71eed8792b09" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
